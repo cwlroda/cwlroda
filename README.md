@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm a third year undergraduate from Singapore, currently studying Computer Engineering in Imperial College London.
+I'm a **third year undergraduate** from Singapore, currently studying **Computer Engineering** in Imperial College London.
 
 - 🔭 I’m currently working on **Action Recognition Deep Learning models**
 - 🌱 I’m currently learning **Neural Networks** and **Computer Vision**
