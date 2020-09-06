@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there! 👋
+![](https://komarev.com/ghpvc/?username=cwlroda&color=brightgreen)
 
-<!--
-**cwlroda/cwlroda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third year undergraduate from Singapore, currently studying Computer Engineering in Imperial College London.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Action Recognition Deep Learning models**
+- 🌱 I’m currently learning **Neural Networks** and **Computer Vision**
+- :computer: I’m looking for internships in **Software Engineering**, **Data Science**, and **Machine Learning**
+- 💬 Ask me about anything under the sun!
+- 📫 How to reach me: https://www.linkedin.com/in/weiloon-cheng/
+- ⚡ Fun fact: I love to travel and explore the world!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
