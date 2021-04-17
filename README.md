@@ -14,7 +14,7 @@ I'm a **Penultimate Year Undergraduate** from Singapore, currently studying **Co
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cwlroda&show_icons=true&count_private=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwlroda&langs_count=10&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwlroda&langs_count=10&layout=compact&theme=dracula&hide=tcl,cmake,jupyter%20notebook" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=cwlroda&color=brightgreen)
