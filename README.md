@@ -14,14 +14,14 @@ I'm a **Penultimate Year Undergraduate** from Singapore, currently studying **Co
 - :computer: I’m looking for jobs in **Software Engineering** or **Machine Learning**
 - :octocat: I like to participate in hackathons and brainstorm cool ideas!
 - 💬 Ask me about anything under the sun or let me know if you want to collaborate!
-- 📫 How to reach me: https://www.linkedin.com/in/weilooncheng/
+- 📫 How to reach me: https://www.linkedin.com/in/weilooncheng
 - ⚡ Fun fact: I love to travel and explore the world!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cwlroda&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&border_radius=10" />
+  <img align="center" src="https://github-readme-stats-cwlroda.vercel.app/api?username=cwlroda&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&border_radius=10" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwlroda&langs_count=10&layout=compact&theme=dracula&hide=tcl,cmake,jupyter%20notebook&border_radius=10" />
+  <img align="center" src="https://github-readme-stats-cwlroda.vercel.app/api/top-langs/?username=cwlroda&langs_count=10&layout=compact&theme=dracula&hide=tcl,cmake,jupyter%20notebook&border_radius=10" />
 </a>
 
 <br>
