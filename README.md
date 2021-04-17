@@ -17,4 +17,6 @@ I'm a **Penultimate Year Undergraduate** from Singapore, currently studying **Co
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwlroda&langs_count=10&layout=compact&theme=dracula&hide=tcl,cmake,jupyter%20notebook&border_radius=10" />
 </a>
 
+<br>
+
 ![](https://komarev.com/ghpvc/?username=cwlroda&color=brightgreen)
