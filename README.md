@@ -20,7 +20,7 @@ Check out my portfolio at <a href="https://cwlroda.github.io">cwlroda.github.io<
 - ⚡ Fun fact: I love to travel and explore the world!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-cwlroda.vercel.app/api?username=cwlroda&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&border_radius=10" />
+  <img align="center" src="https://github-readme-stats-cwlroda.vercel.app/api?username=cwlroda&show_icons=true&count_private=true&theme=dracula&border_radius=10" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats-cwlroda.vercel.app/api/top-langs/?username=cwlroda&langs_count=10&layout=compact&theme=dracula&hide=tcl,cmake,jupyter%20notebook&border_radius=10" />
