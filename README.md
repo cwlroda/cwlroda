@@ -2,6 +2,8 @@
 
 I'm a **Penultimate Year Undergraduate** from Singapore, currently studying **Computer Engineering** in Imperial College London.
 
+Check out my portfolio at <a href="https://cwlroda.github.io">cwlroda.github.io</a>!
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
