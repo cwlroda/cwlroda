@@ -12,8 +12,8 @@ Check out my portfolio at <a href="https://cwlroda.github.io">cwlroda.github.io<
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fsharp/fsharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
-- 🔭 I’m currently working on **Real-Time 3D Multi-Object Tracking**
-- 🌱 I’m currently learning **Computer Vision** and **Front-End Development**
+- 🔭 I’m currently working on **Distributed Machine Learning Systems**
+- 🌱 I’m currently learning **Computer Vision** and **Distributed Systems**
 - :computer: I’m looking for jobs in **Software Engineering** or **Machine Learning**
 - :octocat: I like to participate in hackathons and brainstorm cool ideas!
 - 💬 Ask me about anything under the sun or let me know if you want to collaborate!
